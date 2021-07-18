@@ -9,7 +9,13 @@
     "deviceName" : "Toilettes",
     "devicePlace" : "Appart Vincenne",
     "deviceVersion" : "H0.1",
-    "lastSignal" : "1626629261"
+    "signal" : {
+          "first" : "1626625261",
+          "last" : "1626625661",
+          "msgNumber":500,
+          "upTime":90
+    }
+
   },
   {
     "id": "345DF1",
@@ -20,7 +26,13 @@
     "deviceName" : "Chambre",
     "devicePlace" : "Appart Vincenne",
     "deviceVersion" : "H0.1",
-    "lastSignal" : "1626629245"
+    "signal" : {
+          "first" : "1626625261",
+          "last" : "1626625661",
+          "msgNumber":500,
+          "upTime":90
+    }
+
   },
   {
     "id": "2E5DF1",
@@ -31,7 +43,13 @@
     "deviceName" : "Salon",
     "devicePlace" : "Mamie",
      "deviceVersion" : "H0.1",
-     "lastSignal" : "1626624261"
+    "signal" : {
+          "first" : "1626625261",
+          "last" : "1626625661",
+          "msgNumber":500,
+          "upTime":90
+    }
+
   }
 ]
 }

@@ -58,12 +58,12 @@
     "prenom" : "Martin",
     "nom" : "LAVOQUET",
     "email" : "martin.lavoquet@theyrender.com",
-    "connexion" {
+    "connexion" : {
       "first":"123123123",
       "last":"122131234"
     },
     "telephone":"0650723311",
-    "adresse" {
+    "adresse" : {
       "rue":"62 rue de Fontenay",
       "ville":"Vincennes",
       "zip":"94300",
@@ -75,12 +75,12 @@
     "prenom" : "Emmanuel",
     "nom" : "DECLE",
     "email" : "emmanuel.decle@theyrender.com",
-    "connexion" {
+    "connexion" : {
       "first":"123123113",
       "last":"122331234"
     },
     "telephone":"0750766312",
-    "adresse" {
+    "adresse" : {
       "rue":"12 rue de Portalis",
       "ville":"Paris",
       "zip":"75009",

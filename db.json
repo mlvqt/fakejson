@@ -29,8 +29,8 @@
     "signal" : {
           "first" : "1626625261",
           "last" : "1626625661",
-          "msgNumber":500,
-          "upTime":90
+          "msgNumber":22,
+          "upTime":13
     }
 
   },
@@ -46,8 +46,8 @@
     "signal" : {
           "first" : "1626625261",
           "last" : "1626625661",
-          "msgNumber":500,
-          "upTime":90
+          "msgNumber":3530,
+          "upTime":97
     }
 
   }

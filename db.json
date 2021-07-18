@@ -8,6 +8,8 @@
     },
     "deviceName" : "Toilettes",
     "devicePlace" : "Appart Vincenne"
+    "deviceVersion" : "H0.1"
+    "lastSignal" : "1626629261"
   },
   {
     "id": "345DF1",
@@ -17,6 +19,7 @@
     },
     "deviceName" : "Chambre",
     "devicePlace" : "Appart Vincenne"
+    "deviceVersion" : "1626629245"
   },
   {
     "id": "2E5DF1",
@@ -26,6 +29,7 @@
     },
     "deviceName" : "Salon",
     "devicePlace" : "Mamie"
+     "deviceVersion" : "1626624261"
   }
 ]
 }

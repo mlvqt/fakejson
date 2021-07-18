@@ -14,11 +14,6 @@
           "last" : "1626625661",
           "msgNumber":500,
           "upTime":90
-    },
-     "money" : {
-          "debut" : "1626625261",
-          "fin" : "1626625661",
-          "actif":"true"
     }
 
   },
@@ -36,11 +31,6 @@
           "last" : "1626625661",
           "msgNumber":22,
           "upTime":13
-    },
-    "money" : {
-          "debut" : "1626625261",
-          "fin" : "1626625661",
-          "actif":"true"
     }
 
   },
@@ -58,11 +48,6 @@
           "last" : "1626625661",
           "msgNumber":3530,
           "upTime":97
-    },
-    "money" : {
-          "debut" : "1626625261",
-          "fin" : "1626625661",
-          "actif":"true"
     }
 
   }

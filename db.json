@@ -3,8 +3,8 @@
   {
     "id": "1DAC9C",
     "owner": {
-       "Martin LAVOQUET",
-         "ownerId": 2
+       "name":"Martin LAVOQUET",
+       "ownerId": 2
     },
     "deviceName" : "Toilettes",
     "devicePlace" : "Appart Vincenne"
@@ -12,8 +12,8 @@
   {
     "id": "345DF1",
     "owner": {
-       "Martin LAVOQUET",
-         "ownerId": 2
+       "name":"Martin LAVOQUET",
+        "ownerId": 2
     }
     "deviceName" : "Chambre",
     "devicePlace" : "Appart Vincenne"
@@ -21,8 +21,8 @@
   {
     "id": "2E5DF1",
     "owner": {
-       "Emmanuel DECLE",
-         "ownerId": 3
+       "name":"Emmanuel DECLE",
+       "ownerId": 3
     }
     "deviceName" : "Salon",
     "devicePlace" : "Mamie"

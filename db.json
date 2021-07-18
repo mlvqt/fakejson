@@ -7,8 +7,8 @@
        "ownerId": 2
     },
     "deviceName" : "Toilettes",
-    "devicePlace" : "Appart Vincenne"
-    "deviceVersion" : "H0.1"
+    "devicePlace" : "Appart Vincenne",
+    "deviceVersion" : "H0.1",
     "lastSignal" : "1626629261"
   },
   {
@@ -18,7 +18,7 @@
         "ownerId": 2
     },
     "deviceName" : "Chambre",
-    "devicePlace" : "Appart Vincenne"
+    "devicePlace" : "Appart Vincenne",
     "deviceVersion" : "1626629245"
   },
   {
@@ -28,7 +28,7 @@
        "ownerId": 3
     },
     "deviceName" : "Salon",
-    "devicePlace" : "Mamie"
+    "devicePlace" : "Mamie",
      "deviceVersion" : "1626624261"
   }
 ]

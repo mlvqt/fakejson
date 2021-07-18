@@ -14,7 +14,7 @@
     "owner": {
        "name":"Martin LAVOQUET",
         "ownerId": 2
-    }
+    },
     "deviceName" : "Chambre",
     "devicePlace" : "Appart Vincenne"
   },
@@ -23,7 +23,7 @@
     "owner": {
        "name":"Emmanuel DECLE",
        "ownerId": 3
-    }
+    },
     "deviceName" : "Salon",
     "devicePlace" : "Mamie"
   }

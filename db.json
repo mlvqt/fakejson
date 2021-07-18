@@ -48,8 +48,11 @@
           "last" : "1626625661",
           "msgNumber":3530,
           "upTime":97
+    },
+    "money" : {
+      "actif":true
     }
-
+    
   }
 ],
 "users": [
